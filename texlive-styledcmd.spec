@@ -1,6 +1,6 @@
 Name:		texlive-styledcmd
 Version:	60430
-Release:	1
+Release:	2
 Summary:	Handling multiple versions of user-defined macros
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/styledcmd
