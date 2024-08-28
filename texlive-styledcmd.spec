@@ -1,5 +1,5 @@
 Name:		texlive-styledcmd
-Version:	65262
+Version:	70491
 Release:	1
 Summary:	Handling multiple versions of user-defined macros
 Group:		Publishing
