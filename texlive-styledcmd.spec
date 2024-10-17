@@ -3,7 +3,7 @@ Version:	70491
 Release:	1
 Summary:	Handling multiple versions of user-defined macros
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/styledcmd
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/styledcmd
 License:	gpl3+
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/styledcmd.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/styledcmd.doc.r%{version}.tar.xz
